@@ -24,18 +24,15 @@
 * Bower 
 * Sass 
 * 960 Grid 
-* Bootstrap 3
 * Bootstrap 4
-* AngularJs 1
-* AngularJs 2
+* AngularJs 4
+* Vue.js 2
 
 ###Back End
 * Php 
 * PhpOo
 * Php Mvc 
-* Zend FrameWork 2
 * Zend FrameWork 3 
-* Laravel 5.3
 * Laravel 5.4
 
 ###Banco de Dados
