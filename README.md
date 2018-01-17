@@ -1,8 +1,8 @@
 #Winston Hanun Júnior
 
 **Endereço.:** Rua Goias nº180 * Centro * Morrinhos - Goias  
-**Telefone.:** (64)9310-4680
-**Zap.:** (64)9310-4680  
+**Telefone.:** (64)99218-3582
+**Zap.:** (64)99218-3582  
 **Email.:** <devhanunjunior@gmail.com>  
 **Skype.:** <devhanunjunior@gmail.com>  
 
@@ -14,16 +14,13 @@
 * 2º Periodo Tecnologo em Sistemas de Computação pela Fundação CECIRRJ
 
 ###Front End
-* Html
 * Html5 
-* Css 
 * Css3
 * JavaScript 
 * Jquery
 * GulpJS 
 * Bower 
 * Sass 
-* 960 Grid 
 * Bootstrap 4
 * AngularJs 4
 * Vue.js 2
@@ -33,7 +30,7 @@
 * PhpOo
 * Php Mvc 
 * Zend FrameWork 3 
-* Laravel 5.4
+* Laravel 5.*
 
 ###Banco de Dados
 * Mysql 
