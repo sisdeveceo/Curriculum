@@ -1,8 +1,8 @@
 #Winston Hanun Júnior
 
 **Endereço.:** Rua Goias nº180 * Centro * Morrinhos - Goias  
-**Telefone.:** (64)99218-3582
-**Zap.:** (64)99218-3582  
+**Telefone.:** (64)98407-4963
+**Zap.:** (64)98407-4963  
 **Email.:** <devhanunjunior@gmail.com>  
 **Skype.:** <devhanunjunior@gmail.com>  
 
@@ -12,6 +12,11 @@
 * Logica de Programação Senac Goiânia
 * Delphi 2007 com SqlServer Senac Goiânia.
 * 2º Periodo Tecnologo em Sistemas de Computação pela Fundação CECIRRJ
+
+### Métodos Ágeis.
+* Scrum.
+* Xp.
+* Kaban
 
 ###Front End
 * Html5 
@@ -24,6 +29,7 @@
 * Bootstrap 4
 * AngularJs 4
 * Vue.js 2
+* Ionic
 
 ###Back End
 * Php 
