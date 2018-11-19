@@ -1,10 +1,10 @@
 #Winston Hanun Júnior
 
 **Endereço.:** Rua Goias nº180 * Centro * Morrinhos - Goias  
-**Telefone.:** (64)99324-9387
-**Zap.:** (64)99324-9387  
-**Email.:** <ceo.sisdeve@gmail.com>  
-**Skype.:** <ceo.sisdeve@gmail.com>  
+**Telefone.:** (64)98408-9783
+**Zap.:** (64)98408-9783  
+**Email.:** <devjuniorhanun@gmail.com>  
+**Skype.:** devjuniorhanun@gmail.com>  
 
 ###Formação
 
@@ -66,7 +66,6 @@
 * Desenvolvedor Web Sisdeve
 
 ###Trabalhos
-* <https://github.com/sisdeveceo>
 * <http://www.acamargo.com>
 * <http://www.aparafusolandia.com.br>
 * <http://www.californiamotos.com.br>
